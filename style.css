@@ -1,0 +1,36 @@
+a:hover {
+    text-decoration:none;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ed225d;
+    font-weight: 900;
+    letter-spacing: 10px;
+    font-size: 40px;
+}
+body {
+    background-color: #323232;
+}
+
+p {
+    color: #fff;
+    font-family: 'Crimson Text', serif;
+    font-size: 24px;
+    font-style: italic;
+}
+
+p a:hover {
+    text-decoration: underline;
+    color: #ed225d;
+}
+
+p a {
+    color:#ed225d;
+}
+
+iframe {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
